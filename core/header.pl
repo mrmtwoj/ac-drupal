@@ -44,7 +44,7 @@ if(($ARGV[0] =~ m/--help/i))
 	print color("cyan");
 	printf "
    Author      :   $author
-   Linkedin    :   https://ir.linkedin.com/in/mrmtwoj
+   Linkedin    :   https://ir.linkedin.com/in/joshani
    E-Mail      :   mr.mtwoj@gmail.com
    Website     :   www.acyber.ir
    Twitter     :   @mrmtwoj
